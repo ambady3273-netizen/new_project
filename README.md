@@ -1,2 +1,2 @@
 # new_project
-Good project
+Good ideas
